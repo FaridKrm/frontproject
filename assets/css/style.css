@@ -350,7 +350,9 @@ body {
   height: 894px;
   background-color: #333333;
 }
-
+body{
+  width: 1530px !important;
+}
 .foot-up{
 height: 150px;
 }
